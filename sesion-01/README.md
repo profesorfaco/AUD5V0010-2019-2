@@ -22,7 +22,9 @@ Si nunca has usado [Processing](https://processing.org/), la introducción por l
 
 Importante será recordar que la diferencia entre Processing y p5.js está en el lenguaje de programación base de cada proyecto: Processing se levanta sobre Java, mientras p5.js lo hace sobre JavaScript. Acá las apariencias no los deberían engañar. Estos lenguajes que no se relacionan directamente; "java" no funciona como sufijo ni debe usarse como nombre abreviado de "javascript"… Hacerlo sería como llamarle "cama" al "camarada", porque no se relacionan como "cama" y "camarote".
 
-Puedes contar con más información oficial de p5.js, es recomendable consultar:
+**Para comenzar a explorar esta biblioteca de JavaScript, utilizaremos su editor en línea: https://editor.p5js.org/**
+
+Puedes contar con más información oficial de p5.js, consultando:
 
 - [Introducción a la Programación con p5.js](https://www.youtube.com/watch?v=DtAHvMjMzMQ)
 

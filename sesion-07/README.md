@@ -1,4 +1,4 @@
-# Processing : clase 3 de 4
+# Processing : clase 3 de 3
 
 ### Jueves 26 de septiembre → Sesión 7
 

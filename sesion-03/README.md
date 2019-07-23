@@ -2,7 +2,7 @@
 
 ### Jueves 22 de agosto → Sesión 3
 
-[p5.js](https://p5js.org/es/get-started/) es una biblioteca de JavaScript, por esta razón las variables exigen seguir ciertas normas:
+[p5.js](https://p5js.org/es/get-started/) es una biblioteca de JavaScript, por esta razón los datos deben ser contenidos por las variables siguiendo algunas normas:
 
 ```
 <script>

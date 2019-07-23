@@ -8,9 +8,9 @@ En este electivo se conectarán propuestas de diseño con sus correspondientes p
 
 Estudiantes de ambas menciones podrán complementarse para explorar tecnologías que, en la última década, han abierto el acceso a la elaboración de proyectos interactivos, de interfaces visuales y tangibles.
 
-Esta exploración acercará a cada estudiante a los lenguajes JavaScript, Processing y Arduino, y también a los principios de la electrónica que les permitirán trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
+Esta exploración acercará a cada estudiante a los lenguajes JavaScript, Processing y Arduino, y también a los principios de la electrónica, para permitirle trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
 
-Para la versión del curso del segundo semestre de 2019, se consideran las siguientes sesiones:
+Para la versión del curso, del segundo semestre de 2019, se consideran las siguientes sesiones:
 
 - **Jueves 01 de agosto → [Sesión 1 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-01)**
 - **Jueves 08 de agosto → [Sesión 2 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)**

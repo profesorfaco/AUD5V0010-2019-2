@@ -1,4 +1,4 @@
-# Processing : clase 2 de 4
+# Processing : clase 2 de 3
 
 ### Jueves 12 de septiembre → Sesión 6
 

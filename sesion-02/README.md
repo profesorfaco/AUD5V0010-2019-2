@@ -200,4 +200,4 @@ Podrás encontrar otras maneras de tomar datos externos en p5.js en [las referen
 
 - - - - - - - - - 
 
-[Tercera clase →](https://github.com/profesorfaco/AUD5V0010-2019/tree/master/clase-03)
+[Sesión 03 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)

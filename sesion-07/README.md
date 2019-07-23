@@ -1,6 +1,6 @@
 # Processing : clase 3 de 3
 
-### Jueves 26 de septiembre → Sesión 7
+### Jueves 26 de septiembre → Sesión 7 → Ev. 2
 
 En esta clase corresponde hacer una introducción a los conceptos básicos de electrónica, la que será aplicada en una evaluación Parcial de Processing: 
 

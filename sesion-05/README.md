@@ -1,4 +1,4 @@
-# Processing : clase 1 de 4
+# Processing : clase 1 de 3
 
 ### Jueves 05 de septiembre → Sesión 5
 

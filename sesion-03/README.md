@@ -2,7 +2,7 @@
 
 ### Jueves 22 de agosto → Sesión 3
 
-[p5.js](https://p5js.org/es/get-started/) es una biblioteca de JavaScript. Todo lo revisado [la clase recién pasada](https://github.com/profesorfaco/AUD5V0010-2019/tree/master/clase-02#p5js--clase-2--jueves-20-de-marzo) respecto de el uso de datos en JavaScript aplica en p5.js:
+[p5.js](https://p5js.org/es/get-started/) es una biblioteca de JavaScript, por esta razón las variables exigen seguir ciertas normas:
 
 ```
 <script>

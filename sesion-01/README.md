@@ -94,4 +94,4 @@ Puedes contar con más información oficial de p5.js, es recomendable consultar:
 
 -------
 
-[siguiente sesión →](https://github.com/profesorfaco/AUD5V0010-2019/tree/gh-pages/sesion-02)
+[siguiente sesión →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)

@@ -4,11 +4,13 @@
 #### Segundo semestre 2019
 ##### [Profesor FACO](http://profesor.faco.cl/)
 
-Este electivo avanzará, por vía de la programación, desde la idea al prototipo funcional, introduciendo al dominio de las tecnologías que en la última década han abierto el acceso a la elaboración de proyectos interactivos, en dimensiones visuales y tangibles. 
+En este electivo se conectarán propuestas de diseño con sus correspondientes prototipos funcionales, por la vía de la programación.
 
-En este avance cada estudiante accederá a los principios básicos de la programación con JavaScript, y luego conocerá Processing y Arduino hasta un nivel intermedio, incluyendo conceptos de electrónica que le permitirán trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
+Estudiantes de ambas menciones podrán complementarse para explorar tecnologías que, en la última década, han abierto el acceso a la elaboración de proyectos interactivos, de interfaces visuales y tangibles.
 
-### Fechas y clases: 
+Esta exploración acercará a cada estudiante a los lenguajes JavaScript, Processing y Arduino, y también a los principios de la electrónica que les permitirán trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
+
+Para la versión del curso del segundo semestre de 2019, se consideran las siguientes sesiones:
 
 - **Jueves 01 de agosto → [Sesión 1 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-01)**
 - **Jueves 08 de agosto → [Sesión 2 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)**
@@ -32,14 +34,19 @@ En este avance cada estudiante accederá a los principios básicos de la program
 
 ### Evaluaciones
 
-Hay 5 instancias de evaluación destacadas en el listado de clases recién presentado. Estas evaluaciones se reparten en el cierre de la cuarta clase de cada tema (p5.js, Processing, Arduino), y luego, para comprobar o demostrar el aprovechamiento de 3 clases,y poder hacer ajustes en el desarrollo del curso con atención a los resultados de aprendizaje.
+Hay 5 instancias de evaluación destacadas en el listado de clases recién presentado:
+
+- evaluar el dominio de [p5.js](http://p5js.org/es/)
+- evaluar el dominio de [Processing](https://processing.org/)
+- evaluar el dominio de [Arduino](https://www.arduino.cc/)
+- evaluar una propuesta de vinculación creativa de [Arduino](https://www.arduino.cc/) y [Processing](https://processing.org/) o [p5.js](http://p5js.org/es/)
+- evaluar el prototipo funcional de la propuesta de vinculación creativa
 
 El promedio final de asignatura resultará del promedio de estas 5 evaluaciones. 
 
-Para aprobar este electivo, se requiere: 
+Para aprobar este electivo, se requiere, además del promedio de evaluaciones igual o superior a 4, de una asistencia mínima.
 
-- que el promedio de evaluaciones sea igual o superior a 4,0; y 
-- que la asistencia a clases sea igual o superior al 70%.  
+Esta asistencia mínima requerida para aprobar es del 70%, lo que corresponde asistir a un mínimo de 10 de 14 sesiones.
 
 ### Herramientas:
 

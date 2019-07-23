@@ -198,6 +198,7 @@ Podrás encontrar otras maneras de tomar datos externos en p5.js en [las referen
 
 - Para comenzar a explorar p5.js con su editor en línea: https://editor.p5js.org/
 
-- - - - - - - - - 
 
-[Sesión 03 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)
+-------
+
+[Sesión 3 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)

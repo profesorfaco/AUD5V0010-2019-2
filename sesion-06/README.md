@@ -4,14 +4,6 @@
 
 Para continuar el trabajo con Processing, cada estudiante presentará un Sketch y guiará al curso en el modo de resolverlo. 
 
-### Referencias
-
-- https://processing.org/examples/
-
-- https://www.openprocessing.org/
-
-- [Learning Processing: A Beginner's Guide to Programming Images, Animations, and Interaction](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
-
 -------
 
 [Sesión 7 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07)

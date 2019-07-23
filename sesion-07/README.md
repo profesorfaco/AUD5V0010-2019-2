@@ -45,6 +45,8 @@ Entre los distintos modelos de placa electrónica Arduino, la más popular podr�
 
 Pero hay muchas más [placas, módulos y kits disponibles](https://store.arduino.cc/usa/arduino/boards-modules). 
 
+-----------
 
+[Sesión 8 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-08)
 
 

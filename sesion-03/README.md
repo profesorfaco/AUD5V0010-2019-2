@@ -103,6 +103,7 @@ Desarrollaremos 7 ejercicios preparativos para la evaluación de la [próxima cl
 
 El término "dibujo" debe entenderse de manera laxa: Desde el "minimalismo abstracto" hasta "visualización de datos".
 
-- - - - - - - - - 
 
-[Cuarta clase →](https://github.com/profesorfaco/AUD5V0010-2019/tree/master/clase-04)
+-------
+
+[Sesión 4 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04)

@@ -24,14 +24,6 @@ Importante será recordar que la diferencia entre Processing y p5.js está en el
 
 **Para comenzar a explorar esta biblioteca de JavaScript, utilizaremos su editor en línea: https://editor.p5js.org/**
 
-Puedes contar con más información oficial de p5.js, consultando:
-
-- [Introducción a la Programación con p5.js](https://www.youtube.com/watch?v=DtAHvMjMzMQ)
-
-- [p5.js | get started](https://p5js.org/es/get-started/)
-
-- [The Coding Train - p5.js tutorials](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd)
-
 -------
 
 [Sesión 2 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)

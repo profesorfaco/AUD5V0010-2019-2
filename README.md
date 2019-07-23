@@ -14,19 +14,19 @@ En este avance cada estudiante accederá a los principios básicos de la program
 - **Jueves 08 de agosto → [Sesión 2 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)**
 - Jueves 15 de agosto → Feriado
 - **Jueves 22 de agosto → [Sesión 3 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)**
-- **Jueves 29 de agosto → [Sesión 4 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04) → Ev. 1**
+- **Jueves 29 de agosto → [Sesión 4 → p5.js → Ev. 1](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04)**
 - **Jueves 05 de septiembre → [Sesión 5 → Processing](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-05)**
 - **Jueves 12 de septiembre → [Sesión 6 → Processing](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-06)**
 - Jueves 19 de septiembre → Feriado
-- **Jueves 26 de septiembre → [Sesión 7 → Processing](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07) → Ev. 2**
+- **Jueves 26 de septiembre → [Sesión 7 → Processing → Ev. 2](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07)**
 - **Jueves 03 de octubre → [Sesión 8 → Arduino](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-08)**
 - **Jueves 10 de octubre → [Sesión 9 → Arduino](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-09)**
 - **Jueves 17 de octubre → [Sesión 10 → Arduino](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-10)**
-- **Jueves 24 de octubre → [Sesión 11 → Arduino](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-11) → Ev. 3**
+- **Jueves 24 de octubre → [Sesión 11 → Arduino → Ev. 3](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-11)**
 - Jueves 31 de octubre → Feriado
 - **Jueves 07 de noviembre → [Sesión 12 → Aplicación](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-12)**
-- **Jueves 14 de noviembre → [Sesión 13 → Aplicación](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-13) → Ev. 4**
-- **Jueves 21 de noviembre → [Sesión 14 → Aplicación](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-14) → Ev. 5**
+- **Jueves 14 de noviembre → [Sesión 13 → Aplicación → Ev. 4](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-13)**
+- **Jueves 21 de noviembre → [Sesión 14 → Aplicación → Ev. 5](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-14)**
 - Jueves 28 de diciembre → Semana de Pruebas (25 - 29 de noviembre)
 - Jueves 05 de diciembre → Semana de Taller (02 - 06 de diciembre)
 

@@ -14,25 +14,25 @@ En este avance cada estudiante accederá a los principios básicos de la program
 - **Jueves 08 de agosto → [Sesión 2](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)**
 - Jueves 15 de agosto → Feriado
 - **Jueves 22 de agosto → [Sesión 3](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)**
-- **Jueves 29 de agosto → [Sesión 4](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04)**
+- **Jueves 29 de agosto → [Sesión 4](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04) → Ev. 1**
 - **Jueves 05 de septiembre → [Sesión 5](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-05)**
 - **Jueves 12 de septiembre → [Sesión 6](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-06)**
 - Jueves 19 de septiembre → Feriado
-- **Jueves 26 de septiembre → [Sesión 7](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07)**
+- **Jueves 26 de septiembre → [Sesión 7](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07) → Ev. 2**
 - **Jueves 03 de octubre → [Sesión 8](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-08)**
 - **Jueves 10 de octubre → [Sesión 9](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-09)**
 - **Jueves 17 de octubre → [Sesión 10](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-10)**
-- **Jueves 24 de octubre → [Sesión 11](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-11)**
+- **Jueves 24 de octubre → [Sesión 11](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-11) → Ev. 3**
 - Jueves 31 de octubre → Feriado
 - **Jueves 07 de noviembre → [Sesión 12](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-12)**
-- **Jueves 14 de noviembre → [Sesión 13](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-13)**
-- **Jueves 21 de noviembre → [Sesión 14](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-14)**
+- **Jueves 14 de noviembre → [Sesión 13](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-13) → Ev. 4**
+- **Jueves 21 de noviembre → [Sesión 14](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-14) → Ev. 5**
 - Jueves 28 de diciembre → Semana de Pruebas (25 - 29 de noviembre)
 - Jueves 05 de diciembre → Semana de Taller (02 - 06 de diciembre)
 
 ### Evaluaciones
 
-Hay 5 instancias de evaluación destacadas en el listado de clases recién presentado. Estas evaluaciones se reparten en el cierre de la presentación de cada tema (p5.js, Processing, Arduino), para comprobar o demostrar el aprovechamiento de 3 clases,y poder hacer ajustes en el desarrollo del curso con atención a los resultados de aprendizaje.
+Hay 5 instancias de evaluación destacadas en el listado de clases recién presentado. Estas evaluaciones se reparten en el cierre de la cuarta clase de cada tema (p5.js, Processing, Arduino), y luego, para comprobar o demostrar el aprovechamiento de 3 clases,y poder hacer ajustes en el desarrollo del curso con atención a los resultados de aprendizaje.
 
 El promedio final de asignatura resultará del promedio de estas 5 evaluaciones. 
 

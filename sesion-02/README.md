@@ -184,21 +184,6 @@ Lo que hace p5.js con loadJSON, loadTable y loadXML es leer los datos y asignarl
 
 Podrás encontrar otras maneras de tomar datos externos en p5.js en [las referencias, bajo el título de IO](https://p5js.org/reference/#group-IO).
 
-#### Referencias
-
-- [Introducción a Datos - Pablo H. Paladino](https://visualizacionuc.github.io/introduccion-datos/)
-
-- [Working with data en YouTube - The Coding Train (Daniel Shiffman)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
-
-- Para validar el JSON: https://jsonlint.com/
-
-- Para poner en línea el JSON ya validado: http://myjson.com/
-
-- Para aprovechar un JSON que ya está en línea, que incluye los nombres de los hijos de Apu y Manjula: https://api.myjson.com/bins/rexzi
-
-- Para comenzar a explorar p5.js con su editor en línea: https://editor.p5js.org/
-
-
 -------
 
 [Sesión 3 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)

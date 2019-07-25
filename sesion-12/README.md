@@ -2,7 +2,10 @@
 
 ### Jueves 07 de noviembre → Sesión 12
 
-En la clase de hoy corresponde presentar 3 ideas, cada ua acompañada de 3 antecedentes que la justifiquen.
+En la clase de hoy corresponde **presentar 3 ideas para trabajo final**, cada idea debe estar acompañada de: 
+
+- 3 antecedentes que justifiquen su viabilidad y factibildad. 
+- 3 referentes que, en conjunto, conduzcan a un resultado originalidad. 
 
 -----------
 

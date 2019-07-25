@@ -75,7 +75,7 @@ Además del *software* en su computador personal, se necesitarán herramientas t
 
 - [Lab: Intro to Asynchronous Serial Communications - ITP Physical Computing](https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/)
 
-- [Otras referencias](https://github.com/profesorfaco/AUD5V0010-2019-2/wiki/Referencias)
+- [Más referencias en línea…](https://github.com/profesorfaco/AUD5V0010-2019-2/wiki/referencias)
 
 ### Contactos
 

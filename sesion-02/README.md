@@ -93,9 +93,7 @@ Neptuno, 49538, 0.6745
 
 El ejemplo replica a lo que ya vimos en JSON, y esto no es casual: La popularidad de JSON le ha hecho mucha sobra al uso de XML.
 
-### p5.js 
-
-[p5.js](https://p5js.org/es/get-started/) es una biblioteca de JavaScript creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes. 
+### Datos en p5.js 
 
 Al tratarse de una biblioteca de JavaScript, todo lo dicho anteriormente sobre las variables aplica en p5.js:
 

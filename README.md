@@ -8,7 +8,7 @@ En este electivo se conectarán propuestas de diseño con sus correspondientes p
 
 Estudiantes de ambas menciones podrán complementarse para explorar tecnologías que, en la última década, han abierto el acceso a la elaboración de proyectos interactivos, de interfaces visuales y tangibles.
 
-Esta exploración acercará a cada estudiante a los lenguajes JavaScript, Processing y Arduino, y también a los principios de la electrónica, para permitirle trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
+Esta exploración acercará a cada estudiante a los **lenguajes JavaScript y Java (Processing + Arduino)**, y también a los **principios de la electrónica**, para permitirle trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
 
 Para la versión del curso, del segundo semestre de 2019, se consideran las siguientes sesiones:
 

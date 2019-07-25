@@ -2,11 +2,11 @@
 
 ### Jueves 29 de agosto → Sesión 4 → Ev. 1
 
-En la evaluación de hoy será necesario resolver, en grupos, 3 desafíos para luego exponer los resultados al curso. 
+En la evaluación de hoy será necesario resolver, en grupos, 3 desafíos de p5.js para luego exponer los resultados al curso. 
 
 Esto implicará evaluar: 
 
-- aprovechamiento de los estudios;
+- enseñanza/aprendizaje;
 - resolución de problemas;
 - creatividad;
 - trabajo en equipo; y

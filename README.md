@@ -1,8 +1,8 @@
 # Universidad de Chile / Diseño
 
-### Introducción a la programación para el Diseño de interacción
-#### Segundo semestre 2019
-##### [Profesor FACO](http://profesor.faco.cl/)
+### AUD5V0010 = "Introducción a la programación para el Diseño de interacción" || FGDIS138 = "Introducción a la programación para el Diseño de interacción"
+
+#### Segundo semestre 2019 / Jueves 15:00 - 18:15 / [Profesor FACO](http://profesor.faco.cl/)
 
 En este electivo se conectarán propuestas de diseño con sus correspondientes prototipos funcionales, por la vía de la programación.
 

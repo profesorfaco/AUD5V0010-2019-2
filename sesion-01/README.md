@@ -18,9 +18,7 @@ function draw(){
 }
 ```
 
-Si nunca has usado [Processing](https://processing.org/), la introducción por la vía de [p5.js](https://p5js.org/es/) te podrá resultar útil. 
-
-Importante será recordar que la diferencia entre Processing y p5.js está en el lenguaje de programación base de cada proyecto: Processing se levanta sobre Java, mientras p5.js lo hace sobre JavaScript. Acá las apariencias no los deberían engañar. Estos lenguajes que no se relacionan directamente; "java" no funciona como sufijo ni debe usarse como nombre abreviado de "javascript"… Hacerlo sería como llamarle "cama" al "camarada", porque no se relacionan como "cama" y "camarote".
+Si nunca has usado [Processing](https://processing.org/), comenzar por [p5.js](https://p5js.org/es/) será positivo por cuanto resultará una introduccioón [algo más amable](https://www.youtube.com/watch?v=CgBAr0Rim04) a la programación; importante será recordar que la diferencia entre Processing y p5.js está en el lenguaje de programación base de cada proyecto: Processing se levanta sobre Java, mientras p5.js lo hace sobre JavaScript. Acá las apariencias no los deberían engañar. Estos lenguajes que no se relacionan directamente; "java" no funciona como sufijo ni debe usarse como nombre abreviado de "javascript"… Hacerlo sería como llamarle "cama" al "camarada".
 
 **Para comenzar a explorar esta biblioteca de JavaScript, utilizaremos su editor en línea: https://editor.p5js.org/**
 

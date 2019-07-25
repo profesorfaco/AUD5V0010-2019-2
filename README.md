@@ -7,7 +7,7 @@
 
 En este electivo se conectarán propuestas de diseño con sus correspondientes prototipos funcionales, por la vía de la programación.
 
-Estudiantes de ambas menciones podrán complementarse para explorar tecnologías que, en la última década, han abierto el acceso a la elaboración de proyectos interactivos, de interfaces visuales y tangibles.
+Estudiantes de ambas menciones podrán complementarse para explorar tecnologías que, en la última década, han abierto el acceso a la elaboración de proyectos interactivos, con interfaces visuales y tangibles.
 
 Esta exploración acercará a cada estudiante a los **lenguajes JavaScript y Java (Processing + Arduino)**, y también a los **principios de la electrónica**, para permitirle trabajar con placas de desarrollo, sensores y dispositivos electromecánicos.
 

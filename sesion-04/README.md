@@ -2,7 +2,15 @@
 
 ### Jueves 29 de agosto → Sesión 4 → Ev. 1
 
-En la evaluación de hoy será necesario programar, de manera autónoma, versiones propias de 4 ejercicios.
+En la evaluación de hoy será necesario resolver, en grupos, 3 desafíos para luego exponer los resultados al curso. 
+
+Esto implicará evaluar: 
+
+- aprovechamiento de los estudios;
+- resolución de problemas;
+- creatividad;
+- trabajo en equipo; y
+- habilidades comunicativas.
 
 -------
 

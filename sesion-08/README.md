@@ -6,11 +6,11 @@
 
 Corresponde saber **algo de electrónica** para trabajar con **circuitos electrónicos**, porque estos últimos se aprovechan del flujo de electrones para la generación, transmisión, recepción, almacenamiento de datos, cumpliendo con ello el rol de sensores (*input*) o actuadores (*output*).
 
-Veamos el siguiente ejemplo:
+Cuando trabajamos con electrónica, lo que hacemos es algo como esto:
 
 ![Ley de Ohm](https://www.build-electronic-circuits.com/wp-content/uploads/2014/09/Ohms-law-cartoon-cropped.jpg)
 
-En un circuito puedo afectar el flujo de electrones mediante una resistencia variable. La variable de tal resistencia dependerá de un factor externo. Por ejemplo, un [fotoresistor](https://es.wikipedia.org/wiki/Fotorresistor) es una resistencia que depende de la luminosidad.
+En un circuito electrónico podemos afectar el flujo de electrones mediante una resistencia variable. La variable de tal resistencia dependerá de un factor externo. Por ejemplo, un [fotoresistor](https://es.wikipedia.org/wiki/Fotorresistor) es una resistencia que depende de la luminosidad.
 
 ![Fotoresistor](http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/1000/1106/html/20070822klpingtcn_247iessco.jpg)
 

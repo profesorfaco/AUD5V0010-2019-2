@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>El Título</title>
+</head>
+
+<body>
+    <h1 id="saludable">Un encabezado</h1>
+    <h2>Otro encabezado</h2>
+    <!--Solo hay 6 niveles de encabezados-->
+    <p>Un párrafo, y lo que sigue es un código para copiar y pegar en la Consola de JavaScript.</p>
+    <button onClick="saluda()">Salúdame</button>
+    <button onClick="despide()">Despídete</button>
+    <script>
+        var nombre = "Lala";
+        function saluda() {
+            document.getElementById("saludable").innerText = "Hola " + nombre;
+        }
+        function despide() {
+            document.getElementById("saludable").innerText = "Chao " + nombre;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>El título</title>
+</head>
+
+<body>
+    <h1>Un encabezado</h1>
+    <h2>Otro encabezado</h2>
+    <!-- Solo hay 6 niveles de encabezados -->
+    <p>Un párrafo, y lo que sigue es un código para copiar y pegar en la Consola de JavaScript.</p>
+    <script>
+        var nombre = "Jesús";
+        document.getElementsByTagName("h1")[0].innerText = "Bendito Señor " + "nombre";
+    </script>
+</body>
+
+</html>

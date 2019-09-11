@@ -1,6 +1,6 @@
 # Processing : clase 1 de 3
 
-### Jueves 05 de septiembre → Sesión 5
+### Jueves 11 de septiembre → Sesión 5
 
 Hoy comenzaremos a trabajar con Processing. Para ello es necesario tener instalada su última versión: [Processing 3](https://processing.org/download/)
 

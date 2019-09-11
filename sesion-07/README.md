@@ -1,6 +1,6 @@
 # Processing : clase 3 de 3
 
-### Jueves 26 de septiembre → Sesión 7 → Ev. 2
+### Jueves 26 de septiembre → Sesión 6 → Ev. 2
 
 
 En la evaluación de hoy será necesario resolver, en grupos, 3 desafíos de Processing para luego exponer los resultados al curso. 

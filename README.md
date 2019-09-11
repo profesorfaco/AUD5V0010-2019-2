@@ -17,8 +17,8 @@ Para la versión del curso, del segundo semestre de 2019, se consideran las sigu
 - **Jueves 08 de agosto → [Sesión 2 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-02)**
 - Jueves 15 de agosto → Feriado
 - **Jueves 22 de agosto → [Sesión 3 → p5.js](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-03)**
-- Jueves 29 de agosto → Paro
-- **Jueves 05 de septiembre → [Sesión 4 → p5.js → Ev. 1](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04)**
+- **Jueves 29 de agosto → [Sesión 4 → p5.js → Ev. 1](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-04)**
+- Jueves 05 de septiembre → Paro
 - **Jueves 12 de septiembre → [Sesión 5 → Processing](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-05)**
 - Jueves 19 de septiembre → Feriado
 - **Jueves 26 de septiembre → [Sesión 6 → Processing → Ev. 2](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-07)**

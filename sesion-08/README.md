@@ -28,6 +28,31 @@ Entre los distintos modelos de placa electrónica Arduino, la más popular podr�
 
 Pero hay muchas más [placas, módulos y kits disponibles](https://store.arduino.cc/usa/arduino/boards-modules). 
 
+```
+// Llamado a *bibliotecas
+// Declaración de variables globales
+// Globales se usan en setup() y loop()
+// Locales son las que se crean y usan solo en un contexto
+
+void setup() {
+  // Lo que se ejecuta una vez
+}
+
+void loop() {
+  // Lo que se ejecutará una y otra vez en la placa
+}
+
+
+/*
+
+Hacer trabajar a Arduino con Processing, es sencillo
+Hacer trabajar a Arduino con p5.js no es tan sencillo: 
+https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/
+
+*/
+
+```
+
 -----------
 
 [Sesión 9 →](https://github.com/profesorfaco/AUD5V0010-2019-2/tree/gh-pages/sesion-09)
